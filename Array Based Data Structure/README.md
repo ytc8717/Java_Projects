@@ -1,2 +1,2 @@
 # Array Based Data Structure (Java)
-- Array Based Data Structure (ArrayList, Stack, Queue)
+- Implemented array based data structure (ArrayList, Stack, Queue)
